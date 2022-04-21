@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+}
+
+section#persona {
+    padding-left: 20px;
+}
+
+section#info {
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 10px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
